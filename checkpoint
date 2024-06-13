@@ -1,0 +1,2 @@
+model_checkpoint_path: "shakespeares_gen.weights"
+all_model_checkpoint_paths: "shakespeares_gen.weights"
